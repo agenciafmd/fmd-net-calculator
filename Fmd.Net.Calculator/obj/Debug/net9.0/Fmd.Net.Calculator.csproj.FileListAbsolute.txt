@@ -1,0 +1,11 @@
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/bin/Debug/net9.0/Fmd.Net.Calculator.deps.json
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/bin/Debug/net9.0/Fmd.Net.Calculator.dll
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/bin/Debug/net9.0/Fmd.Net.Calculator.pdb
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.AssemblyInfoInputs.cache
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.AssemblyInfo.cs
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.csproj.CoreCompileInputs.cache
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.dll
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/refint/Fmd.Net.Calculator.dll
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/Fmd.Net.Calculator.pdb
+/home/fumas/RiderProjects/fmd-net-calculator/Fmd.Net.Calculator/obj/Debug/net9.0/ref/Fmd.Net.Calculator.dll

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageIcon>logo.jpg</PackageIcon>
+        <PackageId>Fmd.Net.Calculator</PackageId>
+        <Title>Fmd.Net.Calculator</Title>
+        <Authors>Vinicius Fumagalli</Authors>
+        <Company>FMD</Company>
+        <Version>1.0.1</Version>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="..\..\fmd-net-calculator\assets\logo.jpg">
+            <Pack>True</Pack>
+            <PackagePath></PackagePath>
+        </None>
+    </ItemGroup>
+
+</Project>
